@@ -1,0 +1,5 @@
+2
+I ParosTimin
+H ParatlanTimin
+ACG     T
+T       ACG

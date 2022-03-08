@@ -1,0 +1,15 @@
+7
+I Alap
+I A1
+H A2
+H C'1
+I C'2
+I C1
+I C2
+TG  A   0   0   0    C   0
+0   TG  A   0   0    C   0
+0   0   TGA C   0    0   0
+0   0   A   TG  C    0   0
+0   0   0   0   ACGT 0   0
+0   A   0   0   0    TG  C
+0   0   0   0   0    0   ACGT
